@@ -1,6 +1,6 @@
 <?php
 /**
- * @package  AlecadddPlugin
+ * @package  newPlugin
  */
 /*
 Plugin Name: first Plugin
