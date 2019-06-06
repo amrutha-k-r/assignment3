@@ -23,9 +23,9 @@ The custom footer plugin allows to create an individual footer without tampering
 
 
 1. Download the zip file of plugin.
-2. Unpack the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
+2. Unpack the plugin files to the `/wp-content/plugins/customfooter` directory, or install the plugin through the WordPress plugins screen directly.
 3. Activate the plugin through the 'Plugins' screen in WordPress
-4. Use the Settings->Plugin Name screen to configure the plugin
+4. Use the Settings->custom footer screen to configure the plugin
 
 == Frequently Asked Questions ==
 
@@ -35,6 +35,7 @@ The custom footer plugin allows to create an individual footer without tampering
 1. This screen shot description corresponds to capture11.png. Note that the screenshot is taken from the 
 repository or the directory that contains readme.txt. 
 2. The second screen shot is capture12.png.
+3. The screen shot is posted separately in this repository.
 
 == Changelog ==
 
